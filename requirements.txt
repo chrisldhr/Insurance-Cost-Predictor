@@ -1,0 +1,10 @@
+numpy
+pandas
+folium
+ipywidgets
+matplotlib
+seaborn
+sklearn
+voila
+ipykernel
+IPython
